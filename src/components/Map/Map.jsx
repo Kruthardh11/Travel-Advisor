@@ -22,7 +22,6 @@ const Map = () =>{
                 onChange = {''}
                 onChildClick = {''}
             >
-
             </GoogleMapReact>
         </div>
     );
